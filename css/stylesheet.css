@@ -1,3 +1,7 @@
 a{
   color: inherit;
 }
+
+body{
+font-family: 'IBM Plex Mono', monospace;
+}
